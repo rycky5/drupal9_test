@@ -16,10 +16,13 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "drupal/bootstrap": "^3.23",
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
-        "drupal/core-vendor-hardening": "^9.1"
+        "drupal/core-vendor-hardening": "^9.1",
+        "drupal/paragraphs": "^1.12",
+        "twbs/bootstrap": "^4.5"
     },
     "conflict": {
         "drupal/drupal": "*"
